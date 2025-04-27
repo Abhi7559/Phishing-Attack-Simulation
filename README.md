@@ -1,5 +1,7 @@
 # Phishing-Attack-Simulation
 
+Check out the project here: [Live Demo] (https://loquacious-druid-dd956c.netlify.app/)
+
 Phishing Attack Simulation
 This project is a simple simulation designed to demonstrate how phishing attacks work for educational and awareness purposes only. It shows how attackers can create deceptive login pages to trick users into providing sensitive information like usernames and passwords.
 
